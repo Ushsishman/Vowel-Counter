@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vowel-Counter/static/css/main.e0340eb7.css",
+    "main.js": "/Vowel-Counter/static/js/main.f7098c32.js",
+    "index.html": "/Vowel-Counter/index.html",
+    "main.e0340eb7.css.map": "/Vowel-Counter/static/css/main.e0340eb7.css.map",
+    "main.f7098c32.js.map": "/Vowel-Counter/static/js/main.f7098c32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0340eb7.css",
+    "static/js/main.f7098c32.js"
+  ]
+}
